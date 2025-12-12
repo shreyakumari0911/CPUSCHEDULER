@@ -1,0 +1,5 @@
+
+{
+  "name": "OS Simulator Pro",
+  "description": "A comprehensive operating system simulation dashboard for Memory Allocation, Page Replacement, File Organization, and Disk Scheduling algorithms, including full C++ implementations."
+}
